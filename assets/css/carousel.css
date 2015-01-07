@@ -65,13 +65,16 @@ body {
 -------------------------------------------------- */
 
 section#featured-section {
-  background-image: url('assets/img/school.jpg');
+  background-image: url('../img/school.jpg');
 }
 
 /* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
+  background: white;
   margin-bottom: 20px;
   text-align: center;
+  padding: 8px;
+  width: 350px;
 }
 .marketing h2 {
   font-weight: normal;
