@@ -61,8 +61,12 @@ body {
 }
 
 
-/* MARKETING CONTENT
+/* FEATURED ITEMS
 -------------------------------------------------- */
+
+section#featured-section {
+  background-image: url('assets/img/school.jpg');
+}
 
 /* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
